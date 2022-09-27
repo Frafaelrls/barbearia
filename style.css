@@ -136,3 +136,19 @@ form label, form legend {
     border-radius: 15px;
     transform: scale(1.2) rotate(360deg);
 }
+
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 8px 10px;
+}
