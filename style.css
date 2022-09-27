@@ -152,3 +152,7 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 10px;
 }
+
+.endereco {
+    text-align: center;
+}
