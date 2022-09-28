@@ -83,6 +83,8 @@ nav a:hover {
     margin-top: 10px;
 }
 
+/* css do rodapé */ 
+
 footer {
     text-align: center;
     background: url('bg.jpg');
@@ -95,6 +97,12 @@ footer {
     margin: 20px 0 0;
 }
 
+/* css da página contado */ 
+
+.contato { 
+    width: 940px;
+    margin: 0 auto;
+}
 
 form {
     margin: 40px 0;
