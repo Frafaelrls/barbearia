@@ -177,6 +177,12 @@ td, th {
     clear: left;
 }
 
+.titulo-principal:first-letter{
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: 'Lobster', cursive;
+}
+
 .principal {
     padding: 3em 0;
     background: #FEFEFE;
@@ -186,6 +192,12 @@ td, th {
 
 .principal p {
     margin: 0 0 1em;
+}
+
+.principal p:first-letter {
+    font-weight: bold;
+    font-size: 1.25em;
+    font-family: 'Lobster', cursive;
 }
 
 .principal strong {
@@ -217,7 +229,6 @@ td, th {
     margin: 0 auto;
 }
 
-
 .beneficios {
     padding: 3em 0;
     background: #888888;
@@ -242,10 +253,13 @@ td, th {
     font-weight: bold;
 }
 
+.itens:before {
+    content: '🟊 ';
+}
+
 .imagem-beneficios {
     width: 60%;
 }
-
 
 .video {
     width: 560px;
