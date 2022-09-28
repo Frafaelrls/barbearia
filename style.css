@@ -28,8 +28,9 @@ nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 30px;
     text-decoration: none;
+    text-shadow: 2px 2px #000000;
 }
 
 nav a:hover {
