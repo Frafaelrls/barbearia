@@ -1,4 +1,4 @@
-# Django 🤠
+# HTML5 e CSS3 📧
 <br>
 
 #### Arquivos e documentos utilizados durante o Curso de HTML5 e CSS3
